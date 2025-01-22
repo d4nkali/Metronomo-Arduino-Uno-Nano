@@ -1,2 +1,3 @@
-# template_arduino
-Repositorio de exemplo para repositorios sobre projetos arduino.
+# Metronomo Arduino Uno/Nano
+
+Metrônomo simples usando Arduíno Uno/Nano.
