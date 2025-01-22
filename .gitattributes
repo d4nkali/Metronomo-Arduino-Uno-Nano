@@ -1,0 +1,10 @@
+# Adicionando o Markdown como linguagem
+
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+# Define que o Git sempre converterá delimitadores de linha em CRLF
+
+*.txt eol=crlf
+*.md eol=crlf
+*.ino eol=crlf
