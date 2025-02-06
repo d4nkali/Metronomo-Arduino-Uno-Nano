@@ -1,15 +1,29 @@
 /*
 
-  Programa do Metrônomo usando arduino uno ou nano.
+  Programa do Metrônomo usando Arduino Uno ou Nano.
 
   Autor: d4nkali
-  Data: 04/02/2025
+  Data: 06/02/2025
+
+*/
+
+/*
+
+  Localização dos pinos no Arduino:
+
+    Alimentação +: VIN
+    Alimentação -: GND
+    Alimentação UNO: Conector
+
+    Potenciômetro: A0
+    Buzzer: D8
+    LED: D13 ou Integrado a placa
 
 */
 
 // Pinos
 #define PINO_BUZZER 8
-#define PINO_LED 9
+#define PINO_LED 13
 #define PINO_POTENCIOMETRO A0
 
 // Variáveis
