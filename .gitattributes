@@ -2,6 +2,7 @@
 
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+README.md linguist-detectable=false
 
 # Define que o Git sempre converterá delimitadores de linha em CRLF
 
